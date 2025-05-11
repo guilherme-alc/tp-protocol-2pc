@@ -1,2 +1,0 @@
-Transação iniciada por 5000
-Essa mensagem está sendo enviada pelo participante 5003
